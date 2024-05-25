@@ -75238,7 +75238,7 @@ A.afC.prototype={
 $1(a){return new A.kB(a.b,null)},
 $S:458}
 A.afD.prototype={
-$0(){return A.jM(A.dy("https://github.com/IslamWahied",0,null))},
+$0(){return A.jM(A.dy("https://github.com/islamwahiedwork",0,null))},
 $S:0}
 A.JG.prototype={
 I(a){var s=null,r=A.bo(a,s,t.w).w,q=A.bk(s,3*$.b4.P()/100,s),p=10*$.b4.P()/100,o=A.bk(s,5*$.b4.P()/100,s)
@@ -75248,7 +75248,7 @@ A.a4U.prototype={
 $3(a,b,c){return new A.ca(B.E0,new A.kB($.akh()[c],null),null)},
 $S:154}
 A.a4V.prototype={
-$0(){return A.jM(A.dy("https://github.com/IslamWahied",0,null))},
+$0(){return A.jM(A.dy("https://github.com/islamwahiedwork",0,null))},
 $S:0}
 A.kB.prototype={
 ac(){return new A.JP(B.j)}}
@@ -75520,7 +75520,7 @@ I(a){var s=null,r=t.w,q=A.bo(a,s,r).w.a.b
 r=A.bo(a,s,r).w
 return A.bV(s,A.np(A.el(A.a([B.R6,A.fK(!1,s,!0,B.Ra,s,!0,s,s,s,s,s,s,s,s,s,new A.a06(),s,s,s,s),B.R7],t.p),B.X,B.T,B.bT),s,s),B.l,s,s,s,s,q*0.07,new A.aN(0,q*0.05,0,0),s,s,s,r.a.a)}}
 A.a06.prototype={
-$0(){return A.jM(A.dy("https://github.com/IslamWahied",0,null))},
+$0(){return A.jM(A.dy("https://github.com/islamwahiedwork",0,null))},
 $S:0}
 A.oA.prototype={
 ac(){return new A.Q9(B.j)}}
@@ -83086,7 +83086,7 @@ s($,"aL0","VG",()=>A.apP(t.K))
 r($,"aOa","axL",()=>A.a([A.mE(" Mobile Application Developer",B.az,$.jT.fR(32)),A.mE(" UI/UX Designer",B.az,$.jT.fR(32)),A.mE(" Web Developer",B.az,$.jT.fR(32))],A.a5("t<pv>")))
 r($,"aOv","axR",()=>A.a([A.mE(" Mobile Application Developer",B.az,$.jT.fR(20)),A.mE(" UI/UX Designer",B.az,$.jT.fR(20)),A.mE(" Web Developer",B.az,$.jT.fR(20))],A.a5("t<pv>")))
 r($,"aOi","axN",()=>A.a([A.mE(" Mobile Application Developer",B.az,$.jT.fR(16)),A.mE(" UI/UX Designer",B.az,$.jT.fR(16)),A.mE(" Web Developer",B.az,$.jT.fR(16))],A.a5("t<pv>")))
-r($,"aO7","aod",()=>A.a([A.qt("https://img.icons8.com/ios-glyphs/60/000000/github.png","https://github.com/IslamWahied"),A.qt("https://img.icons8.com/ios-filled/50/000000/fiverr.png","https://www.fiverr.com/islamwheed"),A.qt("https://img.icons8.com/ios-filled/50/000000/facebook-new.png","https://www.facebook.com/islam.waheed1"),A.qt("https://img.icons8.com/material-outlined/48/000000/whatsapp.png",u.b),A.qt("https://img.icons8.com/ios-filled/50/000000/linkedin.png","www.linkedin.com/in/islam-wheed-2544821b1"),A.qt("https://img.icons8.com/ios-filled/50/000000/upwork.png","https://www.upwork.com/freelancers/1011eaa7"),A.qt("https://img.icons8.com/glyph-neue/64/000000/instagram-new.png","https://instagram.com/islam.20102")],A.a5("t<qs>")))
+r($,"aO7","aod",()=>A.a([A.qt("https://img.icons8.com/ios-glyphs/60/000000/github.png","https://github.com/islamwahiedwork"),A.qt("https://img.icons8.com/ios-filled/50/000000/fiverr.png","https://www.fiverr.com/islamwheed"),A.qt("https://img.icons8.com/ios-filled/50/000000/facebook-new.png","https://www.facebook.com/islam.waheed1"),A.qt("https://img.icons8.com/material-outlined/48/000000/whatsapp.png",u.b),A.qt("https://img.icons8.com/ios-filled/50/000000/linkedin.png","www.linkedin.com/in/islam-wheed-2544821b1"),A.qt("https://img.icons8.com/ios-filled/50/000000/upwork.png","https://www.upwork.com/freelancers/1011eaa7"),A.qt("https://img.icons8.com/glyph-neue/64/000000/instagram-new.png","https://instagram.com/islam.20102")],A.a5("t<qs>")))
 r($,"aOp","akh",()=>{var q="assets/imgs/flutter.png"
 return A.a([A.a59("assets/imgs/1.png","This is a comprehensive car maintenance app designed to simplify vehicle upkeep. Track service schedules, monitor repairs, and ensure your car stays in peak condition.",q,"https://github.com/sudeshnb/","Cars Fox App"),A.a59("assets/imgs/02.png","This is a just Fully functional Social media App by using flutter.",q,"https://play.google.com/store/apps/details?id=com.glcpaints.glcpaintshrweb","Awesome Social Media App"),A.a59("assets/imgs/03.png","Revolutionizing Point of Sale and Storage Management for Seamless Operations.",q,"","PointOfSale"),A.a59("assets/imgs/04.png","This is a just Plant App UI by using flutter.",q,"","Awesome Plant App UI")],A.a5("t<rH>"))})
 r($,"aOt","aki",()=>{var q="Are you interested in the great Mobile app? Let's make it a reality.",p=t.s
